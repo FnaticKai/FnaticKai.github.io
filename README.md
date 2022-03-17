@@ -1,2 +1,2 @@
-# http-fnatickai.github.io
+# FnaticKai.github.io
 Мой первый сайт
