@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    font-size: 18px;
+    color: blueviolet;
+}
+nav{
+    width: 40%;
+    height: 50px;
+    float: left;
+    padding-left: 60%;
+    background: #2c384a;
+}
+.title_container{
+    text-align: center;
+    margin: 300px 8px;
+    color: #2c384a;
+}
+.header_logo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 0;
+    padding-left: 188px;
+    
+}
